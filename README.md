@@ -187,7 +187,6 @@ Solar_Power_MId_report.pptx
 ## Future Improvements
 
 * Include satellite-based and real-time data
-* Explore hybrid CNN-LSTM models
 * Build a deployment-ready API using Flask or FastAPI
 * Create a real-time dashboard for GHI forecasting
 
